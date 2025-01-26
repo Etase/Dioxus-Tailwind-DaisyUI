@@ -1,0 +1,20 @@
+{
+  "name": "simplest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@parcel/watcher": "^2.5.1",
+    "@parcel/watcher-linux-x64-glibc": "^2.5.0",
+    "@tailwindcss/cli": "^4.0.0",
+    "daisyui": "^5.0.0-beta.2",
+    "tailwindcss": "^4.0.0"
+  }
+}
