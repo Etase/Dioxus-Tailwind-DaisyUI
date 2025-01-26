@@ -4,7 +4,7 @@ This is a simple framework for Desktop Development combining Dioxus, TailwindCSS
 
 ## Prerequisites
 
-### [Install Dioxus](https://dioxuslabs.com/learn/0.6/getting_started/)
+[Install Dioxus](https://dioxuslabs.com/learn/0.6/getting_started/)
 
 ## Serving Your App
 
