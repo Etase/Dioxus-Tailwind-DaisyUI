@@ -47,7 +47,7 @@ cargo build
 # Install TailwindCSS and DaisyUI
 npm install
 ```
-### **1. Serve Your App**
+### **2. Serve Your App**
 To start developing, follow these steps:
 
 Build CSS: Run TailwindCSS in watch mode to compile your CSS:
