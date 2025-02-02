@@ -53,18 +53,15 @@ To start developing, follow these steps:
 Build CSS: Run TailwindCSS in watch mode to compile your CSS:
 
 ```bash
-Copy code
 npx tailwindcss -i ./input.css -o ./assets/tailwind.css --watch
 Serve Your App: Run the Dioxus development server in another terminal:
 ```
 ```bash
-Copy code
 dx serve
 ```
 
 ## **Directory Structure**
 ```graphql
-Copy code
 .
 ├── src/                   # Dioxus application source code
 ├── assets/                # Static assets (compiled CSS, images, etc.)
