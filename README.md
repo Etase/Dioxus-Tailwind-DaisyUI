@@ -54,8 +54,10 @@ Build CSS: Run TailwindCSS in watch mode to compile your CSS:
 
 ```bash
 npx tailwindcss -i ./input.css -o ./assets/tailwind.css --watch
-Serve Your App: Run the Dioxus development server in another terminal:
 ```
+
+Run the Dioxus development server in another terminal:
+
 ```bash
 dx serve
 ```
