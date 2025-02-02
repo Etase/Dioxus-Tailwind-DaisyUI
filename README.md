@@ -46,21 +46,24 @@ cargo build
 
 # Install TailwindCSS and DaisyUI
 npm install
-2. Serve Your App
+```
+### **1. Serve Your App**
 To start developing, follow these steps:
 
 Build CSS: Run TailwindCSS in watch mode to compile your CSS:
 
-bash
+```bash
 Copy code
 npx tailwindcss -i ./input.css -o ./assets/tailwind.css --watch
 Serve Your App: Run the Dioxus development server in another terminal:
-
-bash
+```
+```bash
 Copy code
 dx serve
-Directory Structure
-graphql
+```
+
+## **Directory Structure**
+```graphql
 Copy code
 .
 ├── src/                   # Dioxus application source code
@@ -69,9 +72,10 @@ Copy code
 ├── package.json           # npm dependencies and scripts
 ├── Cargo.toml             # Rust dependencies
 └── README.md              # Project documentation
-Contributing
+```
+## **Contributing**
 Contributions are welcome! If you encounter issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-License
+## **License**
 This project is licensed under the MIT License.
 
