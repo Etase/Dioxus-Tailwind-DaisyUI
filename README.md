@@ -63,12 +63,14 @@ dx serve
 ## **Directory Structure**
 ```graphql
 .
-├── src/                   # Dioxus application source code
-├── assets/                # Static assets (compiled CSS, images, etc.)
-├── input.css              # TailwindCSS input file
-├── package.json           # npm dependencies and scripts
-├── Cargo.toml             # Rust dependencies
-└── README.md              # Project documentation
+├── src/                   # Source code for the Dioxus application  
+├── assets/                # Static assets such as compiled CSS, images, and other resources  
+├── node_modules/          # Dependencies installed via npm  
+├── input.css              # TailwindCSS input file for styling  
+├── package.json           # npm configuration file, including dependencies and scripts  
+├── Cargo.toml             # Rust project configuration and dependencies  
+├── Dioxus.toml            # Dioxus-specific configuration and dependencies  
+└── README.md              # Project documentation and instructions  
 ```
 ## **Contributing**
 Contributions are welcome! If you encounter issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
