@@ -36,6 +36,13 @@ We recommend keeping your toolchain versions consistent to avoid compatibility i
 
 ## **Getting Started**
 
+### **1. Clone This Repo**
+
+```bash
+git clone https://github.com/Etase/Dioxus-Tailwind-DaisyUI.git
+cd Dioxus-Tailwind-DaisyUI
+```
+
 ### **1. Install Dependencies**
 
 Run the following commands to set up the project dependencies:
