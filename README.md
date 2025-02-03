@@ -26,9 +26,9 @@ Before getting started, ensure you have the following tools installed:
 ## **Toolchain**
 
 This template is built with the following versions:
-- **Dioxus**: `0.6.2`
-- **TailwindCSS**: `4.0.0`
-- **DaisyUI**: `5.0.0-beta.2`
+- **[Dioxus](https://dioxuslabs.com/)**: `0.6.2`
+- **[TailwindCSS](https://tailwindcss.com)**: `4.0.0`
+- **[DaisyUI](https://daisyui.com/)**: `5.0.0-beta.2`
 
 We recommend keeping your toolchain versions consistent to avoid compatibility issues. See the provided `package.json` and `Cargo.toml` for additional details.
 
