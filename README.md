@@ -43,7 +43,7 @@ git clone https://github.com/Etase/Dioxus-Tailwind-DaisyUI.git
 cd Dioxus-Tailwind-DaisyUI
 ```
 
-### **1. Install Dependencies**
+### **2. Install Dependencies**
 
 Run the following commands to set up the project dependencies:
 
@@ -54,7 +54,7 @@ cargo build
 # Install TailwindCSS and DaisyUI
 npm install
 ```
-### **2. Serve Your App**
+### **3. Serve Your App**
 To start developing, follow these steps:
 
 Build CSS: Run TailwindCSS in watch mode to compile your CSS:
